@@ -1,5 +1,5 @@
 ## riscV calculator
-This is a projec I worked on in a computer architecture class during my sophomore year at Kyungpook National University.<br>
+This is a project I worked on during my computer architecture class in my sophomore year at Kyungpook National University.<br>
 
 To run this program you"ll need a RISC-V Assembler and Runtime Simulator.<br>
 
